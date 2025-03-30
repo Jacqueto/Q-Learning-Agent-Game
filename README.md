@@ -10,12 +10,12 @@ This is a **Q-learning AI agent** that learns to navigate a **5x5 grid** using *
 **Customizable environment** – Modify grid size, obstacles, and learning parameters.  
 **Faster execution** – The agent moves smoothly every 300ms.  
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Language:** Java
 - **Libraries:** Swing (for UI visualization)
 - **Algorithm:** Q-learning (Reinforcement Learning)
 
-## 🔧 Installation & Running the Game
+##  Installation & Running the Game
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/your-username/Q-Learning-Agent-Game.git
