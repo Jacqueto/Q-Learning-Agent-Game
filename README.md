@@ -49,10 +49,10 @@ Want to improve this project? Feel free to **fork this repository** and submit a
 ## License
 This project is licensed under the **MIT License** – free to use and modify.
 
-## 🔗 Connect With Me
-💼 **LinkedIn:** [Jacqueline Chiazor](https://www.linkedin.com/in/Jacquelinechiazor/)  
-👨‍💻 **GitHub:** [Jacqueto](https://github.com/Jacqueto)  
-📧 **Email:** Jacquechiazor@gmail.om  
+## Connect With Me
+ **LinkedIn:** [Jacqueline Chiazor](https://www.linkedin.com/in/Jacquelinechiazor/)  
+ **GitHub:** [Jacqueto](https://github.com/Jacqueto)  
+ **Email:** Jacquechiazor@gmail.om  
 
-🚀 *Happy Coding!* 🎮
+ *Happy Coding!* 
 
